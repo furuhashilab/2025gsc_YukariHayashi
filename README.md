@@ -1,5 +1,4 @@
-# 2025gsc_Yukari-Hayashi
-# YukariHayashi-Zemireport
+# YukariHayashi-Graduation thesis
 ### ゼミ論構想発表用: 「駅構内のトイレを対象とした多機能トイレの設置状況に関する調査」
 青山学院大学 地球社会共生学部 地球社会共生学科
 
