@@ -75,7 +75,7 @@
 提案したタグの一覧および定義は、スプレッドシートとして整理し、URL にて共有する。
 
 OSM 新タグ提案一覧（スプレッドシート）
-URL：［https://docs.google.com/spreadsheets/d/1-2_Nuu0Xqn3wCCGJfnY0UK8AndoCRrQYVUR2gGQc64g/edit?usp=drivesdk](提案したOSM新タグ一覧)
+URL：［提案したOSM新タグ一覧]https://docs.google.com/spreadsheets/d/1-2_Nuu0Xqn3wCCGJfnY0UK8AndoCRrQYVUR2gGQc64g/edit?usp=drivesdk)
 ## Discussion
   本研究により、多機能トイレの整備状況は「量・質・配置」のいずれにおいても標準化が不十分であり、開業年や改修履歴、構造条件、事業者の判断に強く依存していることが明らかになった。
 特に、乗客数との非相関は、需要に基づく整備よりも「設置可能性」が優先されている現状を示唆している。また、配置パターンの違いは、視認性や動線、混雑、プライバシーといったアクセシビリティに直接影響を与える要因である。
