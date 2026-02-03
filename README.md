@@ -9,6 +9,8 @@
 指導教員 古橋大地 教授
 
 ©︎Furuhashi Laboratory/Yukari Hayashi, CC BY 4.0
+### 発表資料
+https://docs.google.com/presentation/d/1QEdFTfkxxGoxVs7h6V6LH_MxuT4N1E-X/edit?usp=sharing&ouid=113110555296684688873&rtpof=true&sd=true
 
 ## Abstract
   駅は日常的に多くの人が利用する公共空間であり、その設備整備は利用者の快適性とアクセシビリティに直結する重要な課題である。本研究は、駅構内に設置された多機能トイレに着目し、路線ごとの設置数、配置パターン、設備機能の実態を調査・分析した。
